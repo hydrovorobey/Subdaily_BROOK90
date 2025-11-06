@@ -3,7 +3,7 @@
 
 **Licence** Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-**Main reference** - [https://doi.org/10.3390/w12072037](https://doi.org/10.5194/egusphere-2025-2084)
+**Main reference** - https://doi.org/10.5194/egusphere-2025-2084
 
 *The model files contain:*
 - BROOK90 physical lumped water balance model with a special focus on a detailed representation of vertical water and energy fluxes on subdaily scale within the atmosphere-plant-soil system at a single site
