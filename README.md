@@ -2,6 +2,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/hydrovorobey/Subdaily_BROOK90/total.svg)]()
 
 **Licence** Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
 **Main reference** - [https://doi.org/10.3390/w12072037](https://doi.org/10.5194/egusphere-2025-2084)
 
 *The model files contain:*
@@ -13,5 +14,5 @@
 - framework is currently working in Global Environment, so all internal and output variables are stored there
 
 *Publications*:
-- Kronenberg, R., Vorobevskii, I., Luong, T. T., Spank, U., Kim, D., & Mauder, M. (2025, under review). An extension of the BROOK90 hydrological model for estimation of subdaily water and energy fluxes. EGUsphere. https://doi.org/10.5194/egusphere‑2025‑2084
+- Kronenberg, R., Vorobevskii, I., Luong, T. T., Spank, U., Kim, D., & Mauder, M. (2025, under review). An extension of the BROOK90 hydrological model for estimation of subdaily water and energy fluxes. EGUsphere. [https://doi.org/10.5194/egusphere‑2025‑2084](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2084)
 - Vorobevskii, I., Kronenberg, R., Grünwald, T., & Mauder, M. (in preparation). Significance of the multivariate time series consistency in micro‑meteorological data for climate impact modelling.
